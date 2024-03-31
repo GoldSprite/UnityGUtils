@@ -1,7 +1,7 @@
 {
     "name": "com.goldsprite.unity_gutils.log_tool",
     "displayName": "UnityGUtils_LogTool",
-    "version": "0.1.0-beta",
+    "version": "0.1.1-beta",
     "unity": "2018.3",
     "unityRelease": "0f1",
     "description": "This is Test Package",

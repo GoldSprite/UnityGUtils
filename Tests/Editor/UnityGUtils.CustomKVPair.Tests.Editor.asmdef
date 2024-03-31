@@ -1,0 +1,21 @@
+{
+    "name": "UnityGUtils.CustomKVPair.Tests.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c54bfaf170f43447841a334d962a7c9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

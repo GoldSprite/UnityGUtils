@@ -1,0 +1,23 @@
+{
+    "name": "com.goldsprite.unity_gutils.custom_kvpair",
+    "displayName": "UnityGUtils_CustomKVPair",
+    "version": "0.1.0-beta",
+    "unity": "2018.3",
+    "unityRelease": "0f1",
+    "description": "This is Test Package",
+    "keywords": [
+        "Test",
+        "Package"
+    ],
+    "author": "shikeik",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+    },
+    "samples": [
+        {
+            "displayName": "Example Scenes",
+            "description": "Sample scenes .",
+            "path": "Samples~/"
+        }
+    ]
+}

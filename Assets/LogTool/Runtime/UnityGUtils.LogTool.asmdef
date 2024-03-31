@@ -1,0 +1,16 @@
+{
+    "name": "UnityGUtils.LogTool",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c54bfaf170f43447841a334d962a7c9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

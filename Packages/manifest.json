@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.goldsprite.unity_gutils.custom_kvpair": "https://github.com/GoldSprite/UnityGUtils.git#CustomKVPair_upm",
     "com.unity.collab-proxy": "2.0.1",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.18",

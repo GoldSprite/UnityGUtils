@@ -1,0 +1,19 @@
+{
+    "name": "UnityGUtils.LogTool.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e9e4da884eb30b841a611329210d313b",
+        "GUID:2c54bfaf170f43447841a334d962a7c9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

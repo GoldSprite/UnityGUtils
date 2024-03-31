@@ -1,0 +1,18 @@
+{
+    "name": "UnityGUtils.LogTool.Tests.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f5a2c79e805c4034ebc35d549df30e78"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

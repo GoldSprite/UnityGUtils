@@ -123,6 +123,79 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &751639201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 751639203}
+  - component: {fileID: 751639204}
+  m_Layer: 0
+  m_Name: object, object
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &751639203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751639201}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &751639204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751639201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df9f878d8787174089c17a4d51ce523, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  "\u5D4C\u5957Dict\u5BF9\u8C61":
+    pairs:
+    - Key: 2
+      Value:
+        pairs:
+        - Key: 1
+          Value:
+            Name: vdsd
+            job: 1
+  "\u6D4B\u8BD52":
+    pairs:
+    - Key:
+        Name: 
+        job: 0
+      Value:
+        pairs:
+        - Key:
+            Name: 
+            job: 0
+          Value:
+            Name: 
+            job: 0
+  "\u6D4B\u8BD53":
+    pairs:
+    - Key:
+        Name: 
+        job: 0
+      Value: {x: 0, y: 0, z: 0}
+  "json\u5B57\u7B26\u4E32": 
 --- !u!1 &1172076434
 GameObject:
   m_ObjectHideFlags: 0
@@ -134,7 +207,7 @@ GameObject:
   - component: {fileID: 1172076436}
   - component: {fileID: 1172076435}
   m_Layer: 0
-  m_Name: "\u6F14\u793A\u5E8F\u5217\u5316"
+  m_Name: string, object
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
